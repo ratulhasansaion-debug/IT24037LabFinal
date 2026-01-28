@@ -5,7 +5,6 @@ abstract class Shape {
 interface Drawable {
     void draw();
 }
-
 class Circle extends Shape implements Drawable {
     double radius;
 
