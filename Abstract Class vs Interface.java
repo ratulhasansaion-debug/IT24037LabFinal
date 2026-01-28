@@ -36,7 +36,7 @@ class Rectangle extends Shape implements Drawable {
     public void draw() {
         System.out.println("Drawing Rectangle");
     }
-}
+} 
 
 public class Main {
     public static void main(String[] args) {
